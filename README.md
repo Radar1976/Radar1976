@@ -1,6 +1,6 @@
 - 👋 Hi, @Radar1976 here.  I'm from Canada and love working on computers.
-- 👀 I’m interested in automation, virtualization, and networking
-- 🌱 I’m currently learning Home Assistant
+- 👀 I’m interested in automation (IoT), virtualization (XCP, VMWare), cloud computing (Digital Ocean, Azure, Google Cloud, AWS), and network security (pFSense, OPNSense).
+- 🌱 I’m currently learning Home Assistant, Azure.
 - 💞️ I’m looking to collaborate on nothing but open to start collaboration on a project that falls in the above interests.
 - 📫 How to reach me github at bcwebcams dot com
 
